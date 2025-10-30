@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "name": "ACCION POPULAR",
+    "probablePresidentialCandidate": "Julio Chávez Chiong",
+    "poresteno": true
+  },
+  {
+    "id": 3,
+    "name": "AHORA NACION - AN",
+    "probablePresidentialCandidate": "Alfonso López-Chau",
+    "poresteno": false
+  },
+  {
+    "id": 4,
+    "name": "ALIANZA PARA EL PROGRESO",
+    "probablePresidentialCandidate": "César Acuña",
+    "poresteno": true
+  },
+  {
+    "id": 5,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+    "probablePresidentialCandidate": "Aldo Borrero",
+    "poresteno": true
+  },
+  {
+    "id": 6,
+    "name": "BATALLA PERU",
+    "probablePresidentialCandidate": "Zósimo Cárdenas",
+    "poresteno": false
+  },
+  {
+    "id": 8,
+    "name": "FE EN EL PERU",
+    "probablePresidentialCandidate": "Álvaro Paz de la Barra",
+    "poresteno": false
+  },
+  {
+    "id": 9,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+    "probablePresidentialCandidate": "Jonas Ataucusi Molina",
+    "poresteno": true
+  },
+  {
+    "id": 10,
+    "name": "FUERZA POPULAR",
+    "probablePresidentialCandidate": "Keiko Fujimori",
+    "poresteno": true
+  },
+  {
+    "id": 11,
+    "name": "JUNTOS POR EL PERU",
+    "probablePresidentialCandidate": "Roberto Sánchez",
+    "poresteno": true
+  },
+  {
+    "id": 12,
+    "name": "LIBERTAD POPULAR",
+    "probablePresidentialCandidate": "Rafael Belaúnde Llosa",
+    "poresteno": false
+  },
+  {
+    "id": 13,
+    "name": "NUEVO PERU POR EL BUEN VIVIR",
+    "probablePresidentialCandidate": "Enver León",
+    "poresteno": false
+  },
+  {
+    "id": 14,
+    "name": "PARTIDO APRISTA PERUANO",
+    "probablePresidentialCandidate": "Jorge del Castillo y Mauricio Mulder",
+    "poresteno": true
+  },
+  {
+    "id": 15,
+    "name": "PARTIDO CIUDADANOS POR EL PERU",
+    "probablePresidentialCandidate": "Nicanor Boluarte",
+    "poresteno": false
+  },
+  {
+    "id": 16,
+    "name": "PARTIDO CIVICO OBRAS",
+    "probablePresidentialCandidate": "Ricardo Belmont",
+    "poresteno": false
+  },
+  {
+    "id": 17,
+    "name": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERU",
+    "probablePresidentialCandidate": "Napoleón Becerra García",
+    "poresteno": false
+  },
+  {
+    "id": 18,
+    "name": "PARTIDO DEL BUEN GOBIERNO",
+    "probablePresidentialCandidate": "Jorge Nieto",
+    "poresteno": false
+  },
+  {
+    "id": 19,
+    "name": "PARTIDO DEMOCRATA UNIDO PERU",
+    "probablePresidentialCandidate": "Ana Elvira Huayhua Champi",
+    "poresteno": false
+  },
+  {
+    "id": 20,
+    "name": "PARTIDO DEMOCRATA VERDE",
+    "probablePresidentialCandidate": "Juan Mauricio Mejía Perales",
+    "poresteno": false
+  },
+  {
+    "id": 21,
+    "name": "PARTIDO DEMOCRATICO FEDERAL",
+    "probablePresidentialCandidate": "Luis Bazalar García",
+    "poresteno": false
+  },
+  {
+    "id": 22,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU",
+    "probablePresidentialCandidate": "José Jerí Oré",
+    "poresteno": true
+  },
+  {
+    "id": 23,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+    "probablePresidentialCandidate": "Fernando Olivera",
+    "poresteno": false
+  },
+  {
+    "id": 24,
+    "name": "PARTIDO MORADO",
+    "probablePresidentialCandidate": "Luis Durán Rojo",
+    "poresteno": false
+  },
+  {
+    "id": 25,
+    "name": "PARTIDO PAIS PARA TODOS",
+    "probablePresidentialCandidate": "Alberto Beingolea Delgado",
+    "poresteno": false
+  },
+  {
+    "id": 26,
+    "name": "PARTIDO PATRIOTICO DEL PERU",
+    "probablePresidentialCandidate": "José Enrique Fernández Guerrero",
+    "poresteno": false
+  },
+  {
+    "id": 28,
+    "name": "PARTIDO POLITICO COOPERACION POPULAR",
+    "probablePresidentialCandidate": "Carlos Zeballos y Pierre Alexander Rodas Borja",
+    "poresteno": false
+  },
+  {
+    "id": 29,
+    "name": "PARTIDO POLITICO FUERZA MODERNA",
+    "probablePresidentialCandidate": "Fiorella Molinelli",
+    "poresteno": false
+  },
+  {
+    "id": 30,
+    "name": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "probablePresidentialCandidate": "Wolfgang Grozo",
+    "poresteno": false
+  },
+  {
+    "id": 31,
+    "name": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+    "probablePresidentialCandidate": "Vladimir Cerrón",
+    "poresteno": true
+  },
+  {
+    "id": 32,
+    "name": "PARTIDO POLITICO PERU ACCION",
+    "probablePresidentialCandidate": "Jonathan Ricardo Camacho Lazarte",
+    "poresteno": false
+  },
+  {
+    "id": 33,
+    "name": "PARTIDO POLITICO PERU PRIMERO",
+    "probablePresidentialCandidate": "Martín Vizcarra",
+    "poresteno": false
+  },
+  {
+    "id": 34,
+    "name": "PARTIDO POLITICO PERUANOS UNIDOS : ¡SOMOS LIBRES!",
+    "probablePresidentialCandidate": "Renato Tomás Gálvez Barbieri",
+    "poresteno": false
+  },
+  {
+    "id": 35,
+    "name": "PARTIDO POLITICO POPULAR VOCES DEL PUEBLO",
+    "probablePresidentialCandidate": "Guillermo Bermejo",
+    "poresteno": false
+  },
+  {
+    "id": 36,
+    "name": "PARTIDO POLITICO PRIN",
+    "probablePresidentialCandidate": "Walter Chirinos",
+    "poresteno": false
+  },
+  {
+    "id": 39,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC",
+    "probablePresidentialCandidate": "Carlos Neuhaus y Javier González-Olaechea",
+    "poresteno": true
+  },
+  {
+    "id": 41,
+    "name": "PARTIDO SICREO",
+    "probablePresidentialCandidate": "Carlos Espá",
+    "poresteno": false
+  },
+  {
+    "id": 42,
+    "name": "PARTIDO UNIDAD Y PAZ",
+    "probablePresidentialCandidate": "Roberto Chiabra",
+    "poresteno": false
+  },
+  {
+    "id": 43,
+    "name": "PERU MODERNO",
+    "probablePresidentialCandidate": "Carlos Anderson y Rómulo Mucho",
+    "poresteno": false
+  },
+  {
+    "id": 44,
+    "name": "PODEMOS PERU",
+    "probablePresidentialCandidate": "José Luna Morales",
+    "poresteno": true
+  },
+  {
+    "id": 45,
+    "name": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+    "probablePresidentialCandidate": "Miguel del Castillo Reyes",
+    "poresteno": false
+  },
+  {
+    "id": 46,
+    "name": "PROGRESEMOS",
+    "probablePresidentialCandidate": "Hernando de Soto",
+    "poresteno": false
+  },
+  {
+    "id": 47,
+    "name": "RENOVACION POPULAR",
+    "probablePresidentialCandidate": "Rafael López Aliaga",
+    "poresteno": true
+  },
+  {
+    "id": 49,
+    "name": "SALVEMOS AL PERU",
+    "probablePresidentialCandidate": "Alberto Moreno",
+    "poresteno": false
+  },
+  {
+    "id": 50,
+    "name": "UN CAMINO DIFERENTE",
+    "probablePresidentialCandidate": "Arturo Fernández",
+    "poresteno": false
+  }
+]
