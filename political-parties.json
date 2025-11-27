@@ -4,7 +4,8 @@
     "name": "ACCION POPULAR",
     "imageNumber": 4,
     "probablePresidentialCandidate": "Julio Chávez Chiong",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 3,
@@ -18,14 +19,16 @@
     "name": "ALIANZA PARA EL PROGRESO",
     "imageNumber": 1257,
     "probablePresidentialCandidate": "César Acuña",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 5,
     "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
     "imageNumber": 2173,
     "probablePresidentialCandidate": "Aldo Borrero",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 6,
@@ -46,21 +49,24 @@
     "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
     "imageNumber": 2901,
     "probablePresidentialCandidate": "Jonas Ataucusi Molina",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 10,
     "name": "FUERZA POPULAR",
     "imageNumber": 1366,
     "probablePresidentialCandidate": "Keiko Fujimori",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 11,
     "name": "JUNTOS POR EL PERU",
     "imageNumber": 1264,
     "probablePresidentialCandidate": "Roberto Sánchez",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 12,
@@ -81,7 +87,8 @@
     "name": "PARTIDO APRISTA PERUANO",
     "imageNumber": 2930,
     "probablePresidentialCandidate": "Jorge del Castillo y Mauricio Mulder",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 15,
@@ -137,7 +144,8 @@
     "name": "PARTIDO DEMOCRATICO SOMOS PERU",
     "imageNumber": 14,
     "probablePresidentialCandidate": "José Jerí Oré",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 23,
@@ -193,7 +201,8 @@
     "name": "PARTIDO POLITICO NACIONAL PERU LIBRE",
     "imageNumber": 2218,
     "probablePresidentialCandidate": "Vladimir Cerrón",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 32,
@@ -235,7 +244,8 @@
     "name": "PARTIDO POPULAR CRISTIANO - PPC",
     "imageNumber": 2943,
     "probablePresidentialCandidate": "Carlos Neuhaus y Javier González-Olaechea",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 41,
@@ -263,7 +273,8 @@
     "name": "PODEMOS PERU",
     "imageNumber": 2731,
     "probablePresidentialCandidate": "José Luna Morales",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 45,
@@ -284,7 +295,8 @@
     "name": "RENOVACION POPULAR",
     "imageNumber": 22,
     "probablePresidentialCandidate": "Rafael López Aliaga",
-    "poresteno": true
+    "poresteno": true,
+    "description": "No votes por este partido por ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 49,
